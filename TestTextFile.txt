@@ -1,0 +1,3 @@
+Hello how are you doing? My name is Chris Carmona and this is just a random
+text file that can test the amount of whitespace in a textfile using the C programming
+language! Feel free to type anything you want in this file!
